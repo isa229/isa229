@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @isa229
 - 👀 I’m interested in data science, physics, chemical engineering
-- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on projects related to the data science field.
 - 📫 You can reach me at kimoro.22@gmail.com
 
